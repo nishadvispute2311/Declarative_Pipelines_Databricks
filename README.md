@@ -1,4 +1,4 @@
-# New Pipeline 2025-09-06 18:37
+# Declarative Pipelines in Databricks
 
 This folder defines all source code for the 'New Pipeline 2025-09-06 18:37' pipeline:
 
